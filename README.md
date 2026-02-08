@@ -1,62 +1,62 @@
-<!-- Profil Banner -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YasinBaranKaplan&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-# 🤖 Merhaba, ben Yasin
+# 👋 Yasin Baran Kaplan
 
-🎓 **Software Engineer | AI & ML Enthusiast**  
-💡 Yapay zekâ, makine öğrenmesi ve entegrasyon mühendisliği üzerine çalışıyorum.  
-🌍 Uluslararası kariyer hedefiyle AI/ML projeleri geliştiriyorum.  
+**Software Engineer • Backend & Cloud • AI Enthusiast**  
+📍 Istanbul, Turkey • 🌍 Open to International Opportunities  
+
+</div>
 
 ---
 
-## 🔬 Yeteneklerim
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,nodejs,postgresql,mysql,git,github,linux" />
-</p>
+## 🧠 About
+- Backend & integration focused software engineer  
+- Building **production systems on AWS**
+- Creator of **Expermatik** (live AI-powered platform)
 
-- **Makine Öğrenmesi:** scikit-learn, TensorFlow, PyTorch  
-- **Veri İşleme:** Feature engineering, model değerlendirme, veri temizleme  
-- **Full-Stack Development:** React, Node.js, Vite, SQL/PostgreSQL/MySQL  
-- **Entegrasyon:** Apache Camel, SOAP-to-XML, HTTP4/Jetty  
-- **Versiyon Kontrol:** Git & GitHub workflow hygiene  
+🌐 https://expermatik.com
 
 ---
 
-## 🚀 Projelerim
+## 🛠️ Tech Stack
 
-### 🌐 [Expermatik](https://www.expermatik.com)
-Küçük bir ekiple geliştirdiğim **Expermatik** platformu:  
-- Kullanıcı deneyimini artırmaya yönelik modern web teknolojileri  
-- AI destekli çözümler ve veri odaklı yaklaşımlar  
-- Güvenli ve ölçeklenebilir mimari  
-- Türkiye için algoritmik gayrimenkul fiyat tahmini sistemi  
-- Gerçek zamanlı piyasa verileri ile entegre  
-
-### 🤖 Ash Rover Team
-- Otonom rover için bilgisayarlı görü ve karar verme modülleri  
-- Teknofest Robotics Competition finalisti  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ---
 
-## 📈 Hedeflerim
-- IELTS sınavında 6.5+ skor  
-- HENNGE Global Internship Program başvurusu  
-- Uluslararası AI & Machine Learning Engineer pozisyonu  
+## 🚀 Featured Project
+
+**Expermatik** — AI-powered real estate valuation platform  
+- NestJS • MongoDB • JWT • BullMQ  
+- AWS EC2 & S3 (Production)
+- Payments • PDF reports • Geo data
 
 ---
 
-## 📊 GitHub İstatistikleri
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinBaranKaplan&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+
+</div>
 
 ---
 
-## 📫 Bana Ulaşın
-<p align="center">
-  <a href="https://www.linkedin.com/yasin-baran-kaplan"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/YasinBaranKaplan"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="mailto:kaplanyasin2001@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
+## 🔥 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME)
+
+---
+
+## 📫 Contact
+📧 kaplanyasin2001@gmail.com  
+🌍 Istanbul, Turkey  
+
