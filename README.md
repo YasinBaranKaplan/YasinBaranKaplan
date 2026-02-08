@@ -53,12 +53,14 @@
 
 ## 📊 GitHub Stats (Guaranteed Working)
 
+<div align="center">
+
 <img
-  src="https://github-readme-stats.vercel.app/api?username=YasinBaranKaplan&show_icons=true&count_private=true&include_all_commits=true&theme=default"
+  src="https://github-readme-stats.vercel.app/api?username=YasinBaranKaplan&show_icons=true"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinBaranKaplan&layout=compact&langs_count=8&theme=default"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinBaranKaplan&layout=compact"
 />
 
 </div>
