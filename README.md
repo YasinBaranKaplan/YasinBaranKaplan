@@ -17,11 +17,11 @@
 ---
 
 ## 👨‍💻 Profile
-- 🎓 **B.Sc. Software Engineering** — Beykent University
-- 🏢 **Software Engineer Intern @ Etiya** (WSO2, enterprise integration)
-- 🏢 **Software Engineer Intern @ Crealab** (Apache Camel, HTTP, SOAP)
-- 🤖 AI & Machine Learning (Supervised / Unsupervised)
-- ☁️ Production systems on **AWS (EC2 & S3)**
+- 🎓 B.Sc. Software Engineering — Beykent University
+- 🏢 Software Engineer Intern @ Etiya (WSO2)
+- 🏢 Software Engineer Intern @ Crealab (Apache Camel)
+- 🤖 AI & Machine Learning
+- ☁️ AWS (EC2 & S3) Production Systems
 
 ---
 
@@ -47,27 +47,19 @@
 **Expermatik** — AI-powered real estate valuation platform  
 `NestJS • MongoDB • JWT • BullMQ • AWS`
 
-- AI-based price estimation  
-- PDF report generation  
-- Payment integration (İyzico)  
-- Geo data & caching architecture  
-
----
-
-## 🤖 AI & ML
-- Supervised & Unsupervised Learning
-- Regression & Classification
-- scikit-learn • TensorFlow • PyTorch
-- DeepLearning.AI (Stanford) Certified
-
 ---
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Guaranteed Working)
 
-<img src="https://github-readme-stats.vercel.app/api?username=YasinBaranKaplan&show_icons=true&hide_border=true&theme=transparent"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinBaranKaplan&layout=compact&hide_border=true&theme=transparent"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=YasinBaranKaplan&show_icons=true&count_private=true&include_all_commits=true&theme=default"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinBaranKaplan&layout=compact&langs_count=8&theme=default"
+/>
 
 </div>
 
@@ -75,9 +67,11 @@
 
 <div align="center">
 
-## 🔥 Contribution Activity
+## 🔥 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YasinBaranKaplan&hide_border=true"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=YasinBaranKaplan&theme=github"
+/>
 
 </div>
 
@@ -89,6 +83,6 @@
 🇹🇷 Turkish • 🇬🇧 English (B2) • 🇯🇵 Japanese (A2)
 
 <br/><br/>
-<i>"I build scalable systems with real-world impact."</i>
+<i>"I build production-ready systems."</i>
 
 </div>
