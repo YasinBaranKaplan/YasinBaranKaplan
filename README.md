@@ -51,16 +51,12 @@
 
 <div align="center">
 
-## 📊 GitHub Stats (Guaranteed Working)
+## 📊 GitHub Stats 
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=YasinBaranKaplan&show_icons=true"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinBaranKaplan&layout=compact"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME"
 />
 
 </div>
