@@ -77,7 +77,7 @@
 
 <div align="center">
 
-📧 <b>kaplanyasin2001@gmail.com</b>  
+📧 <b>kaplanyasin2001@outlook.com</b>  
 🇹🇷 Turkish • 🇬🇧 English (B2) • 🇯🇵 Japanese (A2)
 
 <br/><br/>
