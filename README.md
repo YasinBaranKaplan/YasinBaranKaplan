@@ -17,6 +17,7 @@
 ---
 
 ## 👨‍💻 Profile
+- 👨‍💻 Software Engineer - TNB Technology
 - 🎓 B.Sc. Software Engineering — Beykent University
 - 🏢 Software Engineer Intern @ Etiya (WSO2)
 - 🏢 Software Engineer Intern @ Crealab (Apache Camel)
